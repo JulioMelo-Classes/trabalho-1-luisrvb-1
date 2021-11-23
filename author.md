@@ -2,7 +2,7 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *Luis Manuel Esteves da Rocha Vieira*
+- Nome: *Luis Manuel E. da Rocha Vieira*
 - Email: *luis.esteves@ufrn.br*
 - Turma: *turma 01*
 
